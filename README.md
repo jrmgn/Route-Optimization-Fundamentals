@@ -20,5 +20,5 @@ Configuration
 The project uses the OSRM Public Demo Server by default. To change this to a self-hosted server, update the OSRM_BASE variable in the notebook:
 
 Python
-# Change this URL to switch servers
+Change this URL to switch servers
 OSRM_BASE = "http://router.project-osrm.org" 
