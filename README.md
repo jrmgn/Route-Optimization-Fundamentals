@@ -26,4 +26,4 @@ Goal: Minimize total travel time using the Clarke-Wright Savings Algorithm.
 The project uses the OSRM Public Demo Server by default. To change this to a self-hosted server, update the OSRM_BASE variable in the notebook:
 
 Change this URL to switch servers 
-OSRM_BASE = "http://router.project-osrm.org"
+(OSRM_BASE = "http://router.project-osrm.org")
